@@ -24,7 +24,7 @@ This project demonstrates the performance of AI Agents and LLMs in the gaming fi
 
 # Prompt for you to enjoy
 
-Here are some Prompt you can just copy and paste in ChatGPT to try,enjoy yourself:
+Here are some Prompt you can just copy and paste in ChatGPT to try,enjoy yourself,Star for me if you like
 
 ### StarWarChatRPG
 
